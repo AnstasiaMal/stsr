@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather>
+  <observation><city>Минск</city><date>2026-10-01</date><temperature>10.0</temperature><humidity>80</humidity></observation>
+  <observation><city>Минск</city><date>2026-10-02</date><temperature>12.0</temperature><humidity>75</humidity></observation>
+  <observation><city>Брест</city><date>2026-10-02</date><temperature>18.0</temperature><humidity>70</humidity></observation>
+  <observation><city>Минск</city><date>2026-10-03</date><temperature>14.0</temperature><humidity>72</humidity></observation>
+  <observation><city>Минск</city><date>2026-10-04</date><temperature>20.0</temperature><humidity>65</humidity></observation>
+</weather>
